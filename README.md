@@ -1,4 +1,4 @@
-# qgis-resbaz2024
+# QGIS Workshop - ResBaz 2024 - By Dr Debjit Bhowmick
 
 # Useful Resources for Attendees
 
