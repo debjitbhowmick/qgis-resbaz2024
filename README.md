@@ -24,6 +24,8 @@ Learn new concepts and tools with these tutorials.
 
 - [QGIS Documentation](https://docs.qgis.org/) - Guides and manuals for learning QGIS.
 - [QGIS Training Manual](https://docs.qgis.org/3.34/en/docs/training_manual/foreword/foreword.html) - QGIS training manual.
+- [QGIS Tutorials and Tips](https://www.qgistutorials.com/en/) - QGIS Tutorials and Tips.
+- [A Comprehensive Introduction to Mapping and Spatial Analysis with QGIS.](https://courses.spatialthoughts.com/introduction-to-qgis.html) - A Comprehensive Introduction to Mapping and Spatial Analysis with QGIS.
 
 ---
 
@@ -54,21 +56,8 @@ Join these communities to connect with like-minded learners.
 
 - [Stack Overflow](https://stackoverflow.com/) - Ask programming-related questions.
 - [GIS Stack Exchange](https://gis.stackexchange.com/) - Questions and answers related to GIS.
-- [Reddit: Data Science Community](https://www.reddit.com/r/datascience/) - Discussions on data science topics.
-- [Python Discord](https://pythondiscord.com/) - A community for Python enthusiasts.
 
 ---
 
-## 📝 Blogs and Articles
-
-Stay updated with these insightful blogs.
-
-- [Towards Data Science](https://towardsdatascience.com/) - Blog posts on data science and machine learning.
-- [GIS Lounge](https://www.gislounge.com/) - Articles on GIS and geospatial technologies.
-- [Real Python](https://realpython.com/) - High-quality Python tutorials.
-- [DataCamp Blog](https://www.datacamp.com/community/blog) - Learn data skills through articles and tutorials.
-
----
-
-Feel free to suggest additional links by raising an issue or submitting a pull request! 😊
+Happy learning! 😊
  
