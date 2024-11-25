@@ -33,8 +33,6 @@ Essential tools and resources for your projects.
 
 - [Overpass Turbo](https://overpass-turbo.eu/) - Query OpenStreetMap data interactively.
 - [GitHub](https://github.com/) - Code collaboration and version control platform.
-- [Colab](https://colab.research.google.com/) - Free online Python programming environment.
-- [Postman](https://www.postman.com/) - API testing and development tool.
 - [Tableau Public](https://public.tableau.com/en-us/s/) - Free data visualisation tool.
 
 ---
@@ -43,10 +41,10 @@ Essential tools and resources for your projects.
 
 Learn visually with these video resources.
 
-- [Corey Schafer - Python Tutorials](https://www.youtube.com/user/schafer5) - Comprehensive Python tutorials on YouTube.
-- [Khan Academy](https://www.khanacademy.org/) - Free educational content on various topics.
-- [StatQuest](https://www.youtube.com/user/joshstarmer) - Simplified explanations of statistical concepts.
-- [GIS Training and Tutorials by QGIS](https://www.youtube.com/c/QGIS) - Videos to learn QGIS.
+- [Terra Spatial](https://www.youtube.com/playlist?list=PLgxX4AQ_KUQ9oavFq9I8wZsqXW0N6VRDV) - QGIS Tutorial for Beginners
+- [GeoDelta Labs](https://www.youtube.com/playlist?list=PLLxyyob7YmEHFg5xvwszKIo_sNZbczlNC) - Introduction to QGIS.
+- [IT34](https://youtu.be/idQvOMWNMGI?si=4Tp-xdjXbIPNX-ve) - QGIS Beginner Tutorial.
+- [Matt Forrest](https://www.youtube.com/@MattForrest/videos) - Videos to learn QGIS.
 
 ---
 
