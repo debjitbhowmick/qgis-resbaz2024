@@ -33,9 +33,10 @@ Learn new concepts and tools with these tutorials.
 
 Essential tools and resources for your projects.
 
-- [Overpass Turbo](https://overpass-turbo.eu/) - Query OpenStreetMap data interactively.
+- [Overpass Turbo](https://overpass-turbo.eu/) - Query and download OpenStreetMap data interactively.
 - [GitHub](https://github.com/) - Code collaboration and version control platform.
 - [Tableau Public](https://public.tableau.com/en-us/s/) - Free data visualisation tool.
+- [MapChart](https://www.mapchart.net/) - Online map making tool.
 
 ---
 
