@@ -11,6 +11,7 @@ Welcome! Below is a curated list of resources that will help you in your QGIS le
 Explore datasets for practice and projects.
 
 - [City of Melbourne's Open Data Portal](https://data.melbourne.vic.gov.au/pages/home/) - A vast collection of datasets for spatial data analysis within City of Melbourne.
+- [QGIS Training Datal](https://github.com/qgis/QGIS-Training-Data/tree/master) - Data for Training Manual exercises for QGIS Documentation master version.
 - [AURIN data](https://aurin.org.au/resources/data/) - AURIN negotiates access to Australias high value datasets on behalf of the research community.
 - [Data.NSW](https://data.nsw.gov.au/) - An open portal to 16436 datasets throughout NSW State Government.
 - [OpenStreetMap (OSM)](https://www.openstreetmap.org/) - Geospatial data for the entire world.
